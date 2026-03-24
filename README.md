@@ -19,9 +19,3 @@
 
 ### 🌏 About me:
 - 🏫 Third year student of ITMO SE
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m1xay9&theme=dark" width="400"/>
-</div>
