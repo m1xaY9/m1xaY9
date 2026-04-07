@@ -4,9 +4,6 @@
     <a href="https://t.me/m1xay">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
-    <a href="mailto:m1xay9@mail.ru">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
 </div>
 
 
