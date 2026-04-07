@@ -11,10 +11,7 @@
   </a>
 </div>
 
-<div align="center">
-  <h1>Hi there 👋 </h1>
-  <h3>Go Developer</h3>
-</div>
+## **Golang Developer · ITMO University · 3rd-year Student**
 
 
 ### 🌏 About me:
