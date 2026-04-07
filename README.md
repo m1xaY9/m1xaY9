@@ -18,11 +18,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
----
-
-
-## My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m1xaY9&theme=dark&background=000000)](https://git.io/streak-stats)
